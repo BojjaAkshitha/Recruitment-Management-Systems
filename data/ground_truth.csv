@@ -1,0 +1,6 @@
+record_type,record_id,issue_type,expected_label,expected_decision
+InterviewPanelMember,INT-2026-000001,INTERVIEWER_UNAVAILABLE,CONFLICT,Flag interview and reschedule with an available panelist
+Application,APP-REQ-2026-000049-CAND-000227-DUP-001,DUPLICATE_APPLICATION,DUPLICATE,Flag duplicate and retain for audit; do not progress twice
+Application,APP-REQ-2026-000004-CAND-000207,MISSING_FEEDBACK_STAGE_ADVANCED,MISSING_REQUIRED_FEEDBACK,Flag and block further progression until all panel feedback is submitted
+Offer,OFF-2026-000001,OFFER_OUTSIDE_SALARY_BAND,OUT_OF_BAND,Reject approval; do not issue offer outside approved band
+Application,APP-REQ-2026-000086-CAND-002000-EXC-001,CLOSED_REQUISITION_ACTIVE_APPLICATION,INVALID_ACTIVE_APPLICATION,Flag and close or transfer according to requisition policy

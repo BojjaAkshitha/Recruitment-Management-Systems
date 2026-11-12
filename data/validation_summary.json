@@ -1,0 +1,132 @@
+{
+  "seed": 20261022,
+  "requested_counts": {
+    "job_requisitions": 100,
+    "candidates": 2000,
+    "applications": 3000,
+    "interviews": 600,
+    "offers": 150
+  },
+  "actual_counts": {
+    "departments": 7,
+    "job_requisitions": 100,
+    "requisition_status_history": 315,
+    "candidates": 2000,
+    "skills": 20,
+    "candidate_skills": 9957,
+    "resume_artifacts": 2000,
+    "screening_rules": 300,
+    "interviewers": 30,
+    "applications": 3002,
+    "interviews": 600,
+    "interview_panel_members": 1200,
+    "feedback": 1199,
+    "offers": 150,
+    "application_status_history": 7998,
+    "offer_approval_history": 150,
+    "ground_truth": 5
+  },
+  "metrics": {
+    "requisition_status_counts": {
+      "Approved": 85,
+      "Closed": 15
+    },
+    "application_stage_counts": {
+      "Applied": 591,
+      "Interview Completed": 450,
+      "Rejected": 596,
+      "Screening": 576,
+      "Selected": 150,
+      "Withdrawn": 639
+    },
+    "screening_outcome_counts": {
+      "Fail": 2120,
+      "Pass": 450,
+      "Review": 431
+    },
+    "average_screening_score": 24.54,
+    "interviews_completed": 600,
+    "panel_member_assignments": 1200,
+    "feedback_completion_rate": 0.9992,
+    "offer_approval_counts": {
+      "Approved": 149,
+      "Rejected": 1
+    },
+    "offer_outcome_counts": {
+      "Accepted": 30,
+      "Pending": 119,
+      "Rejected": 1
+    },
+    "labelled_exception_count": 5
+  },
+  "structural_validation_errors": [],
+  "business_exception_findings": [
+    {
+      "rule": "DUPLICATE_APPLICATION",
+      "key": "('REQ-2026-000049', 'CAND-000227')",
+      "record_ids": [
+        "APP-REQ-2026-000049-CAND-000227",
+        "APP-REQ-2026-000049-CAND-000227-DUP-001"
+      ]
+    },
+    {
+      "rule": "INTERVIEWER_UNAVAILABLE",
+      "key": "INT-2026-000001",
+      "interviewer_id": "INTR-0007"
+    },
+    {
+      "rule": "MISSING_REQUIRED_FEEDBACK",
+      "key": "APP-REQ-2026-000004-CAND-000207",
+      "interview_id": "INT-2026-000001",
+      "interviewer_id": "INTR-0007"
+    },
+    {
+      "rule": "OFFER_OUTSIDE_SALARY_BAND",
+      "key": "OFF-2026-000001",
+      "approval_status": "Rejected"
+    },
+    {
+      "rule": "CLOSED_REQUISITION_ACTIVE_APPLICATION",
+      "key": "APP-REQ-2026-000086-CAND-002000-EXC-001"
+    }
+  ],
+  "ground_truth_issue_count": 5,
+  "checksums": {
+    "application_status_history.csv": "74c81e3dddce3febb172a6d958f1a4e80c4b33e9c36b9bddb15760e251a2947d",
+    "applications.csv": "f4c86303043ea3ae1082904ba1ab08b6bf7bd041409553db187cfe58a942a6a3",
+    "candidate_skills.csv": "024cbd985cb33d85453e83f5fbab269f6a651577dfd83f22ceba8c9abcf3c34a",
+    "candidates.csv": "c50dbf8cd787584ab216143f0e9b395038567b5881bc9da70b365214260c4d53",
+    "departments.csv": "9104ba1ab4c5b6d8d30a15b1d9dff68ac5f00234e72c31826576bf4a49c7a3b9",
+    "feedback.csv": "c800a6d1800e36507d48a41ec4b15c59a9487b8abe7251e3cf0b0d094ba77630",
+    "ground_truth.csv": "eda9722094504a881d0be78f307beb4aa89c4e5ddd2c99c1d7b7c806c6801452",
+    "interview_panel_members.csv": "1a3c67621a84c73f41186077a76110b616cf612dcc85739e2a16a0e6f1824d82",
+    "interviewers.csv": "428330507ddefed7fa5f07e65f9769025c78ce459c384916b9ff8517f4ef40db",
+    "interviews.csv": "ae17436faf536fddbdb1b7f4a0ad393c9c031e5ffc3899609650610969ada467",
+    "job_requisitions.csv": "2e99bdcc14099d4473fd02d0d2c8d5f1ca1766363a08b0578ec643e2e77f8716",
+    "offer_approval_history.csv": "976c58dc66aafef0df52d88a6b4fc329032277c482501c2534dc22cb892b3ac7",
+    "offers.csv": "83e44c4f13c15ffb0bd19cf36dcf4cc987db9fc687a591df1825b883d33455de",
+    "requisition_status_history.csv": "7f97b38a19f57903b3cb463551526b1905ac3ff443e9c51ca39cd5ccdd15211e",
+    "resume_artifacts.csv": "5a0a9d9ab8fa59d65128392597364ae914c40bbc527a6b556a522ca4841277bc",
+    "screening_rules.csv": "8cc1a86beb5314185bed22e862a42a4d6b117f4a40c8ef01733495c9ca358744",
+    "skills.csv": "7475a7dceb938fc83084efe1a8897153ef4769f4a2261b5879bf56c024904542",
+    "application_status_history.json": "d4e382f3e30c5edc77ab1d8a94bb0d0e61b49ab568b54ebb88c918bf5053fe20",
+    "applications.json": "bf5bdc6ebdeb0447a2075d01b00c660ef7de3a74aa74c9f642d978154d5e0529",
+    "candidate_skills.json": "a5bd794262ba7fba05d4ca1dfa30f8f1f45bc6726f898b67bd684bb021f01dbe",
+    "candidates.json": "82da5dbdc383b0d4fb844293d04a91f745b951aec7e8606adafc274115e7b319",
+    "departments.json": "918fbcfe7cf79d3ba99f1826a69fa574710c7d3b8cb20f240047d862ef890f34",
+    "feedback.json": "1d2df9978601244e1626904e4f2361a9cb7a4a60d48a1c361836120846b1ebd5",
+    "ground_truth.json": "33c6bfa256a15e1ea22cb20a178f92600f212dcb26d5f02a47348643f8ac0760",
+    "interview_panel_members.json": "d0d38a67d1acfbc63ce638a794e578eb199c50bfcef97b8f943a3a71c77cf4d2",
+    "interviewers.json": "8cdaf872b8ade18e4c1c76a3850e3f06ccc38239a0d3600e96dd254874fbf631",
+    "interviews.json": "e71ac611720cf2b2bd8a4d201a9f8bf9e1be27da7e3126f66e76bb48d8d423e7",
+    "job_requisitions.json": "d07d0c698ac8dd9ea3b2763686c63520910c3798354ea505b0cb1f44fae91b5e",
+    "offer_approval_history.json": "7cc753118bb696f7d396c43cc57ed914d242e2fe6794365c544319fee7de21fe",
+    "offers.json": "54394883b006bf65608b22a6a7e6dae56f3b77c7a215ff314f60d3d82aef092c",
+    "requisition_status_history.json": "5c0976469e755bf7cc33512df2f27665304c3e83e6f55396f6eda4df9e8f7c18",
+    "resume_artifacts.json": "8ec9e9702f16d9f4d7bb838e08d843ca4cd01b4a9ad0f6886e361b71a2885809",
+    "screening_rules.json": "f7cb88513b912cb2c4578a38fdba9f72867e4794f9776dbb7ceef313e83cce9f",
+    "skills.json": "5c7417889e89bdd86510a2e8168f3fffda2fe09de82f8ae20bf4cd095a85300f",
+    "source_manifest.json": "54bcdea354e966c95b94ea07a4a68751e04a258e9b1635a203ab2528fdeba2a7",
+    "validation_summary.json": "545853d6da2ea9d5a1e034f33bc72b2c3bb11001eb38f3b08dd16c9237a3f3bd"
+  }
+}

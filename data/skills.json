@@ -1,0 +1,102 @@
+[
+  {
+    "skill_id": "SKL-001",
+    "skill_name": "Python",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-002",
+    "skill_name": "SQL",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-003",
+    "skill_name": "Problem Solving",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-004",
+    "skill_name": "Machine Learning",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-005",
+    "skill_name": "Pandas",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-006",
+    "skill_name": "NumPy",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-007",
+    "skill_name": "Java",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-008",
+    "skill_name": "JavaScript",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-009",
+    "skill_name": "HTML",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-010",
+    "skill_name": "CSS",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-011",
+    "skill_name": "REST APIs",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-012",
+    "skill_name": "Git",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-013",
+    "skill_name": "Linux",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-014",
+    "skill_name": "Docker",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-015",
+    "skill_name": "Communication",
+    "category": "soft"
+  },
+  {
+    "skill_id": "SKL-016",
+    "skill_name": "Statistics",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-017",
+    "skill_name": "Excel",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-018",
+    "skill_name": "Cloud Fundamentals",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-019",
+    "skill_name": "Testing",
+    "category": "technical"
+  },
+  {
+    "skill_id": "SKL-020",
+    "skill_name": "Data Visualization",
+    "category": "technical"
+  }
+]

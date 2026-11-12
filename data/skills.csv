@@ -1,0 +1,21 @@
+skill_id,skill_name,category
+SKL-001,Python,technical
+SKL-002,SQL,technical
+SKL-003,Problem Solving,technical
+SKL-004,Machine Learning,technical
+SKL-005,Pandas,technical
+SKL-006,NumPy,technical
+SKL-007,Java,technical
+SKL-008,JavaScript,technical
+SKL-009,HTML,technical
+SKL-010,CSS,technical
+SKL-011,REST APIs,technical
+SKL-012,Git,technical
+SKL-013,Linux,technical
+SKL-014,Docker,technical
+SKL-015,Communication,soft
+SKL-016,Statistics,technical
+SKL-017,Excel,technical
+SKL-018,Cloud Fundamentals,technical
+SKL-019,Testing,technical
+SKL-020,Data Visualization,technical

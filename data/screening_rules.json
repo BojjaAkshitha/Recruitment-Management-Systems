@@ -1,0 +1,2702 @@
+[
+  {
+    "rule_id": "RULE-REQ-2026-000001-SKL-001",
+    "requisition_id": "REQ-2026-000001",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000001-SKL-013",
+    "requisition_id": "REQ-2026-000001",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000001-SKL-012",
+    "requisition_id": "REQ-2026-000001",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000002-SKL-007",
+    "requisition_id": "REQ-2026-000002",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000002-SKL-012",
+    "requisition_id": "REQ-2026-000002",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000002-SKL-009",
+    "requisition_id": "REQ-2026-000002",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000003-SKL-002",
+    "requisition_id": "REQ-2026-000003",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000003-SKL-014",
+    "requisition_id": "REQ-2026-000003",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000003-SKL-006",
+    "requisition_id": "REQ-2026-000003",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000004-SKL-006",
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000004-SKL-004",
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000004-SKL-015",
+    "requisition_id": "REQ-2026-000004",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000005-SKL-013",
+    "requisition_id": "REQ-2026-000005",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000005-SKL-010",
+    "requisition_id": "REQ-2026-000005",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000005-SKL-008",
+    "requisition_id": "REQ-2026-000005",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000006-SKL-005",
+    "requisition_id": "REQ-2026-000006",
+    "skill_id": "SKL-005",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000006-SKL-015",
+    "requisition_id": "REQ-2026-000006",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000006-SKL-013",
+    "requisition_id": "REQ-2026-000006",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000007-SKL-014",
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-014",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000007-SKL-006",
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000007-SKL-009",
+    "requisition_id": "REQ-2026-000007",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000008-SKL-010",
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000008-SKL-013",
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000008-SKL-015",
+    "requisition_id": "REQ-2026-000008",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000009-SKL-008",
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-008",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000009-SKL-006",
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000009-SKL-009",
+    "requisition_id": "REQ-2026-000009",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000010-SKL-010",
+    "requisition_id": "REQ-2026-000010",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000010-SKL-014",
+    "requisition_id": "REQ-2026-000010",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000010-SKL-012",
+    "requisition_id": "REQ-2026-000010",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000011-SKL-002",
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000011-SKL-005",
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000011-SKL-006",
+    "requisition_id": "REQ-2026-000011",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000012-SKL-007",
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000012-SKL-012",
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000012-SKL-002",
+    "requisition_id": "REQ-2026-000012",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000013-SKL-001",
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000013-SKL-015",
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000013-SKL-011",
+    "requisition_id": "REQ-2026-000013",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000014-SKL-005",
+    "requisition_id": "REQ-2026-000014",
+    "skill_id": "SKL-005",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000014-SKL-011",
+    "requisition_id": "REQ-2026-000014",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000014-SKL-014",
+    "requisition_id": "REQ-2026-000014",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000015-SKL-016",
+    "requisition_id": "REQ-2026-000015",
+    "skill_id": "SKL-016",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000015-SKL-011",
+    "requisition_id": "REQ-2026-000015",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000015-SKL-001",
+    "requisition_id": "REQ-2026-000015",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000016-SKL-013",
+    "requisition_id": "REQ-2026-000016",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000016-SKL-002",
+    "requisition_id": "REQ-2026-000016",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000016-SKL-016",
+    "requisition_id": "REQ-2026-000016",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000017-SKL-012",
+    "requisition_id": "REQ-2026-000017",
+    "skill_id": "SKL-012",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000017-SKL-011",
+    "requisition_id": "REQ-2026-000017",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000017-SKL-013",
+    "requisition_id": "REQ-2026-000017",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000018-SKL-002",
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000018-SKL-001",
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000018-SKL-016",
+    "requisition_id": "REQ-2026-000018",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000019-SKL-010",
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000019-SKL-008",
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000019-SKL-003",
+    "requisition_id": "REQ-2026-000019",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000020-SKL-012",
+    "requisition_id": "REQ-2026-000020",
+    "skill_id": "SKL-012",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000020-SKL-010",
+    "requisition_id": "REQ-2026-000020",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000020-SKL-013",
+    "requisition_id": "REQ-2026-000020",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000021-SKL-001",
+    "requisition_id": "REQ-2026-000021",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000021-SKL-012",
+    "requisition_id": "REQ-2026-000021",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000021-SKL-015",
+    "requisition_id": "REQ-2026-000021",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000022-SKL-015",
+    "requisition_id": "REQ-2026-000022",
+    "skill_id": "SKL-015",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000022-SKL-013",
+    "requisition_id": "REQ-2026-000022",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000022-SKL-007",
+    "requisition_id": "REQ-2026-000022",
+    "skill_id": "SKL-007",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000023-SKL-006",
+    "requisition_id": "REQ-2026-000023",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000023-SKL-004",
+    "requisition_id": "REQ-2026-000023",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000023-SKL-013",
+    "requisition_id": "REQ-2026-000023",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000024-SKL-015",
+    "requisition_id": "REQ-2026-000024",
+    "skill_id": "SKL-015",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000024-SKL-010",
+    "requisition_id": "REQ-2026-000024",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000024-SKL-012",
+    "requisition_id": "REQ-2026-000024",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000025-SKL-006",
+    "requisition_id": "REQ-2026-000025",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000025-SKL-013",
+    "requisition_id": "REQ-2026-000025",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000025-SKL-012",
+    "requisition_id": "REQ-2026-000025",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000026-SKL-009",
+    "requisition_id": "REQ-2026-000026",
+    "skill_id": "SKL-009",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000026-SKL-006",
+    "requisition_id": "REQ-2026-000026",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000026-SKL-010",
+    "requisition_id": "REQ-2026-000026",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000027-SKL-013",
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000027-SKL-006",
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000027-SKL-001",
+    "requisition_id": "REQ-2026-000027",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000028-SKL-009",
+    "requisition_id": "REQ-2026-000028",
+    "skill_id": "SKL-009",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000028-SKL-012",
+    "requisition_id": "REQ-2026-000028",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000028-SKL-008",
+    "requisition_id": "REQ-2026-000028",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000029-SKL-005",
+    "requisition_id": "REQ-2026-000029",
+    "skill_id": "SKL-005",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000029-SKL-006",
+    "requisition_id": "REQ-2026-000029",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000029-SKL-003",
+    "requisition_id": "REQ-2026-000029",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000030-SKL-016",
+    "requisition_id": "REQ-2026-000030",
+    "skill_id": "SKL-016",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000030-SKL-004",
+    "requisition_id": "REQ-2026-000030",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000030-SKL-009",
+    "requisition_id": "REQ-2026-000030",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000031-SKL-007",
+    "requisition_id": "REQ-2026-000031",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000031-SKL-011",
+    "requisition_id": "REQ-2026-000031",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000031-SKL-010",
+    "requisition_id": "REQ-2026-000031",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000032-SKL-009",
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-009",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000032-SKL-007",
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-007",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000032-SKL-001",
+    "requisition_id": "REQ-2026-000032",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000033-SKL-004",
+    "requisition_id": "REQ-2026-000033",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000033-SKL-008",
+    "requisition_id": "REQ-2026-000033",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000033-SKL-013",
+    "requisition_id": "REQ-2026-000033",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000034-SKL-009",
+    "requisition_id": "REQ-2026-000034",
+    "skill_id": "SKL-009",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000034-SKL-002",
+    "requisition_id": "REQ-2026-000034",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000034-SKL-011",
+    "requisition_id": "REQ-2026-000034",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000035-SKL-012",
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-012",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000035-SKL-003",
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000035-SKL-009",
+    "requisition_id": "REQ-2026-000035",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000036-SKL-001",
+    "requisition_id": "REQ-2026-000036",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000036-SKL-008",
+    "requisition_id": "REQ-2026-000036",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000036-SKL-011",
+    "requisition_id": "REQ-2026-000036",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000037-SKL-012",
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-012",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000037-SKL-006",
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000037-SKL-014",
+    "requisition_id": "REQ-2026-000037",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000038-SKL-014",
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-014",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000038-SKL-009",
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000038-SKL-006",
+    "requisition_id": "REQ-2026-000038",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000039-SKL-008",
+    "requisition_id": "REQ-2026-000039",
+    "skill_id": "SKL-008",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000039-SKL-003",
+    "requisition_id": "REQ-2026-000039",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000039-SKL-010",
+    "requisition_id": "REQ-2026-000039",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000040-SKL-002",
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000040-SKL-009",
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000040-SKL-001",
+    "requisition_id": "REQ-2026-000040",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000041-SKL-013",
+    "requisition_id": "REQ-2026-000041",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000041-SKL-011",
+    "requisition_id": "REQ-2026-000041",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000041-SKL-014",
+    "requisition_id": "REQ-2026-000041",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000042-SKL-002",
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000042-SKL-006",
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000042-SKL-016",
+    "requisition_id": "REQ-2026-000042",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000043-SKL-007",
+    "requisition_id": "REQ-2026-000043",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000043-SKL-010",
+    "requisition_id": "REQ-2026-000043",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000043-SKL-015",
+    "requisition_id": "REQ-2026-000043",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000044-SKL-014",
+    "requisition_id": "REQ-2026-000044",
+    "skill_id": "SKL-014",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000044-SKL-004",
+    "requisition_id": "REQ-2026-000044",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000044-SKL-009",
+    "requisition_id": "REQ-2026-000044",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000045-SKL-011",
+    "requisition_id": "REQ-2026-000045",
+    "skill_id": "SKL-011",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000045-SKL-008",
+    "requisition_id": "REQ-2026-000045",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000045-SKL-014",
+    "requisition_id": "REQ-2026-000045",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000046-SKL-004",
+    "requisition_id": "REQ-2026-000046",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000046-SKL-013",
+    "requisition_id": "REQ-2026-000046",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000046-SKL-012",
+    "requisition_id": "REQ-2026-000046",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000047-SKL-015",
+    "requisition_id": "REQ-2026-000047",
+    "skill_id": "SKL-015",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000047-SKL-004",
+    "requisition_id": "REQ-2026-000047",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000047-SKL-005",
+    "requisition_id": "REQ-2026-000047",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000048-SKL-012",
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-012",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000048-SKL-006",
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000048-SKL-009",
+    "requisition_id": "REQ-2026-000048",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000049-SKL-004",
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000049-SKL-010",
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000049-SKL-008",
+    "requisition_id": "REQ-2026-000049",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000050-SKL-001",
+    "requisition_id": "REQ-2026-000050",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000050-SKL-013",
+    "requisition_id": "REQ-2026-000050",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000050-SKL-002",
+    "requisition_id": "REQ-2026-000050",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000051-SKL-010",
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000051-SKL-013",
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000051-SKL-008",
+    "requisition_id": "REQ-2026-000051",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000052-SKL-001",
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000052-SKL-003",
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000052-SKL-010",
+    "requisition_id": "REQ-2026-000052",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000053-SKL-014",
+    "requisition_id": "REQ-2026-000053",
+    "skill_id": "SKL-014",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000053-SKL-011",
+    "requisition_id": "REQ-2026-000053",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000053-SKL-009",
+    "requisition_id": "REQ-2026-000053",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000054-SKL-010",
+    "requisition_id": "REQ-2026-000054",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000054-SKL-009",
+    "requisition_id": "REQ-2026-000054",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000054-SKL-013",
+    "requisition_id": "REQ-2026-000054",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000055-SKL-009",
+    "requisition_id": "REQ-2026-000055",
+    "skill_id": "SKL-009",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000055-SKL-001",
+    "requisition_id": "REQ-2026-000055",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000055-SKL-008",
+    "requisition_id": "REQ-2026-000055",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000056-SKL-002",
+    "requisition_id": "REQ-2026-000056",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000056-SKL-014",
+    "requisition_id": "REQ-2026-000056",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000056-SKL-015",
+    "requisition_id": "REQ-2026-000056",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000057-SKL-007",
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000057-SKL-002",
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000057-SKL-004",
+    "requisition_id": "REQ-2026-000057",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000058-SKL-010",
+    "requisition_id": "REQ-2026-000058",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000058-SKL-009",
+    "requisition_id": "REQ-2026-000058",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000058-SKL-001",
+    "requisition_id": "REQ-2026-000058",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000059-SKL-008",
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-008",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000059-SKL-016",
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000059-SKL-007",
+    "requisition_id": "REQ-2026-000059",
+    "skill_id": "SKL-007",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000060-SKL-004",
+    "requisition_id": "REQ-2026-000060",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000060-SKL-005",
+    "requisition_id": "REQ-2026-000060",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000060-SKL-009",
+    "requisition_id": "REQ-2026-000060",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000061-SKL-014",
+    "requisition_id": "REQ-2026-000061",
+    "skill_id": "SKL-014",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000061-SKL-016",
+    "requisition_id": "REQ-2026-000061",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000061-SKL-015",
+    "requisition_id": "REQ-2026-000061",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000062-SKL-016",
+    "requisition_id": "REQ-2026-000062",
+    "skill_id": "SKL-016",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000062-SKL-005",
+    "requisition_id": "REQ-2026-000062",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000062-SKL-007",
+    "requisition_id": "REQ-2026-000062",
+    "skill_id": "SKL-007",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000063-SKL-006",
+    "requisition_id": "REQ-2026-000063",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000063-SKL-016",
+    "requisition_id": "REQ-2026-000063",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000063-SKL-010",
+    "requisition_id": "REQ-2026-000063",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000064-SKL-005",
+    "requisition_id": "REQ-2026-000064",
+    "skill_id": "SKL-005",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000064-SKL-016",
+    "requisition_id": "REQ-2026-000064",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000064-SKL-015",
+    "requisition_id": "REQ-2026-000064",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000065-SKL-012",
+    "requisition_id": "REQ-2026-000065",
+    "skill_id": "SKL-012",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000065-SKL-009",
+    "requisition_id": "REQ-2026-000065",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000065-SKL-006",
+    "requisition_id": "REQ-2026-000065",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000066-SKL-013",
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000066-SKL-009",
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000066-SKL-004",
+    "requisition_id": "REQ-2026-000066",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000067-SKL-007",
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000067-SKL-006",
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000067-SKL-010",
+    "requisition_id": "REQ-2026-000067",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000068-SKL-004",
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000068-SKL-015",
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000068-SKL-003",
+    "requisition_id": "REQ-2026-000068",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000069-SKL-001",
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000069-SKL-013",
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000069-SKL-003",
+    "requisition_id": "REQ-2026-000069",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000070-SKL-007",
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000070-SKL-006",
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000070-SKL-003",
+    "requisition_id": "REQ-2026-000070",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000071-SKL-001",
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000071-SKL-003",
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000071-SKL-002",
+    "requisition_id": "REQ-2026-000071",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000072-SKL-013",
+    "requisition_id": "REQ-2026-000072",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000072-SKL-001",
+    "requisition_id": "REQ-2026-000072",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000072-SKL-011",
+    "requisition_id": "REQ-2026-000072",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000073-SKL-006",
+    "requisition_id": "REQ-2026-000073",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000073-SKL-011",
+    "requisition_id": "REQ-2026-000073",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000073-SKL-016",
+    "requisition_id": "REQ-2026-000073",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000074-SKL-010",
+    "requisition_id": "REQ-2026-000074",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000074-SKL-011",
+    "requisition_id": "REQ-2026-000074",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000074-SKL-016",
+    "requisition_id": "REQ-2026-000074",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000075-SKL-004",
+    "requisition_id": "REQ-2026-000075",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000075-SKL-006",
+    "requisition_id": "REQ-2026-000075",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000075-SKL-011",
+    "requisition_id": "REQ-2026-000075",
+    "skill_id": "SKL-011",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000076-SKL-006",
+    "requisition_id": "REQ-2026-000076",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000076-SKL-003",
+    "requisition_id": "REQ-2026-000076",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000076-SKL-002",
+    "requisition_id": "REQ-2026-000076",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000077-SKL-007",
+    "requisition_id": "REQ-2026-000077",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000077-SKL-004",
+    "requisition_id": "REQ-2026-000077",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000077-SKL-016",
+    "requisition_id": "REQ-2026-000077",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000078-SKL-008",
+    "requisition_id": "REQ-2026-000078",
+    "skill_id": "SKL-008",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000078-SKL-001",
+    "requisition_id": "REQ-2026-000078",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000078-SKL-004",
+    "requisition_id": "REQ-2026-000078",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000079-SKL-001",
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-001",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000079-SKL-003",
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000079-SKL-016",
+    "requisition_id": "REQ-2026-000079",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000080-SKL-013",
+    "requisition_id": "REQ-2026-000080",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000080-SKL-009",
+    "requisition_id": "REQ-2026-000080",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000080-SKL-001",
+    "requisition_id": "REQ-2026-000080",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000081-SKL-003",
+    "requisition_id": "REQ-2026-000081",
+    "skill_id": "SKL-003",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000081-SKL-008",
+    "requisition_id": "REQ-2026-000081",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000081-SKL-002",
+    "requisition_id": "REQ-2026-000081",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000082-SKL-002",
+    "requisition_id": "REQ-2026-000082",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000082-SKL-014",
+    "requisition_id": "REQ-2026-000082",
+    "skill_id": "SKL-014",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000082-SKL-005",
+    "requisition_id": "REQ-2026-000082",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000083-SKL-006",
+    "requisition_id": "REQ-2026-000083",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000083-SKL-008",
+    "requisition_id": "REQ-2026-000083",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000083-SKL-005",
+    "requisition_id": "REQ-2026-000083",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000084-SKL-002",
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000084-SKL-005",
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000084-SKL-008",
+    "requisition_id": "REQ-2026-000084",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000085-SKL-013",
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000085-SKL-015",
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000085-SKL-001",
+    "requisition_id": "REQ-2026-000085",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000086-SKL-004",
+    "requisition_id": "REQ-2026-000086",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000086-SKL-009",
+    "requisition_id": "REQ-2026-000086",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000086-SKL-001",
+    "requisition_id": "REQ-2026-000086",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000087-SKL-006",
+    "requisition_id": "REQ-2026-000087",
+    "skill_id": "SKL-006",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000087-SKL-016",
+    "requisition_id": "REQ-2026-000087",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000087-SKL-004",
+    "requisition_id": "REQ-2026-000087",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000088-SKL-016",
+    "requisition_id": "REQ-2026-000088",
+    "skill_id": "SKL-016",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000088-SKL-001",
+    "requisition_id": "REQ-2026-000088",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000088-SKL-003",
+    "requisition_id": "REQ-2026-000088",
+    "skill_id": "SKL-003",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000089-SKL-011",
+    "requisition_id": "REQ-2026-000089",
+    "skill_id": "SKL-011",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000089-SKL-004",
+    "requisition_id": "REQ-2026-000089",
+    "skill_id": "SKL-004",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000089-SKL-008",
+    "requisition_id": "REQ-2026-000089",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000090-SKL-004",
+    "requisition_id": "REQ-2026-000090",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000090-SKL-012",
+    "requisition_id": "REQ-2026-000090",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000090-SKL-008",
+    "requisition_id": "REQ-2026-000090",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000091-SKL-008",
+    "requisition_id": "REQ-2026-000091",
+    "skill_id": "SKL-008",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000091-SKL-016",
+    "requisition_id": "REQ-2026-000091",
+    "skill_id": "SKL-016",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000091-SKL-015",
+    "requisition_id": "REQ-2026-000091",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000092-SKL-010",
+    "requisition_id": "REQ-2026-000092",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000092-SKL-013",
+    "requisition_id": "REQ-2026-000092",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000092-SKL-012",
+    "requisition_id": "REQ-2026-000092",
+    "skill_id": "SKL-012",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000093-SKL-002",
+    "requisition_id": "REQ-2026-000093",
+    "skill_id": "SKL-002",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000093-SKL-005",
+    "requisition_id": "REQ-2026-000093",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000093-SKL-007",
+    "requisition_id": "REQ-2026-000093",
+    "skill_id": "SKL-007",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000094-SKL-014",
+    "requisition_id": "REQ-2026-000094",
+    "skill_id": "SKL-014",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000094-SKL-010",
+    "requisition_id": "REQ-2026-000094",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000094-SKL-001",
+    "requisition_id": "REQ-2026-000094",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000095-SKL-014",
+    "requisition_id": "REQ-2026-000095",
+    "skill_id": "SKL-014",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000095-SKL-005",
+    "requisition_id": "REQ-2026-000095",
+    "skill_id": "SKL-005",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000095-SKL-008",
+    "requisition_id": "REQ-2026-000095",
+    "skill_id": "SKL-008",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000096-SKL-004",
+    "requisition_id": "REQ-2026-000096",
+    "skill_id": "SKL-004",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000096-SKL-007",
+    "requisition_id": "REQ-2026-000096",
+    "skill_id": "SKL-007",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000096-SKL-010",
+    "requisition_id": "REQ-2026-000096",
+    "skill_id": "SKL-010",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000097-SKL-013",
+    "requisition_id": "REQ-2026-000097",
+    "skill_id": "SKL-013",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000097-SKL-006",
+    "requisition_id": "REQ-2026-000097",
+    "skill_id": "SKL-006",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000097-SKL-015",
+    "requisition_id": "REQ-2026-000097",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000098-SKL-007",
+    "requisition_id": "REQ-2026-000098",
+    "skill_id": "SKL-007",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000098-SKL-009",
+    "requisition_id": "REQ-2026-000098",
+    "skill_id": "SKL-009",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000098-SKL-015",
+    "requisition_id": "REQ-2026-000098",
+    "skill_id": "SKL-015",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000099-SKL-015",
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-015",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000099-SKL-013",
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-013",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000099-SKL-007",
+    "requisition_id": "REQ-2026-000099",
+    "skill_id": "SKL-007",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000100-SKL-010",
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-010",
+    "weight": 34.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000100-SKL-002",
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-002",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  },
+  {
+    "rule_id": "RULE-REQ-2026-000100-SKL-001",
+    "requisition_id": "REQ-2026-000100",
+    "skill_id": "SKL-001",
+    "weight": 33.0,
+    "is_required": true,
+    "effective_from": "2026-01-01",
+    "effective_to": ""
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "record_type": "InterviewPanelMember",
+    "record_id": "INT-2026-000001",
+    "issue_type": "INTERVIEWER_UNAVAILABLE",
+    "expected_label": "CONFLICT",
+    "expected_decision": "Flag interview and reschedule with an available panelist"
+  },
+  {
+    "record_type": "Application",
+    "record_id": "APP-REQ-2026-000049-CAND-000227-DUP-001",
+    "issue_type": "DUPLICATE_APPLICATION",
+    "expected_label": "DUPLICATE",
+    "expected_decision": "Flag duplicate and retain for audit; do not progress twice"
+  },
+  {
+    "record_type": "Application",
+    "record_id": "APP-REQ-2026-000004-CAND-000207",
+    "issue_type": "MISSING_FEEDBACK_STAGE_ADVANCED",
+    "expected_label": "MISSING_REQUIRED_FEEDBACK",
+    "expected_decision": "Flag and block further progression until all panel feedback is submitted"
+  },
+  {
+    "record_type": "Offer",
+    "record_id": "OFF-2026-000001",
+    "issue_type": "OFFER_OUTSIDE_SALARY_BAND",
+    "expected_label": "OUT_OF_BAND",
+    "expected_decision": "Reject approval; do not issue offer outside approved band"
+  },
+  {
+    "record_type": "Application",
+    "record_id": "APP-REQ-2026-000086-CAND-002000-EXC-001",
+    "issue_type": "CLOSED_REQUISITION_ACTIVE_APPLICATION",
+    "expected_label": "INVALID_ACTIVE_APPLICATION",
+    "expected_decision": "Flag and close or transfer according to requisition policy"
+  }
+]

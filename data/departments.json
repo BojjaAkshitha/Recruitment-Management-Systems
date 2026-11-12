@@ -1,0 +1,30 @@
+[
+  {
+    "department_id": "DEP-001",
+    "department_name": "Engineering"
+  },
+  {
+    "department_id": "DEP-002",
+    "department_name": "Data Science"
+  },
+  {
+    "department_id": "DEP-003",
+    "department_name": "Product"
+  },
+  {
+    "department_id": "DEP-004",
+    "department_name": "Quality Assurance"
+  },
+  {
+    "department_id": "DEP-005",
+    "department_name": "IT Operations"
+  },
+  {
+    "department_id": "DEP-006",
+    "department_name": "Finance"
+  },
+  {
+    "department_id": "DEP-007",
+    "department_name": "Human Resources"
+  }
+]

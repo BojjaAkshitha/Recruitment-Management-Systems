@@ -1,0 +1,92 @@
+{
+  "generator": "src.generate",
+  "seed": 20261022,
+  "provenance": "Fully synthetic fictional records; no external personal data or public datasets used.",
+  "tables": {
+    "departments": {
+      "rows": 7,
+      "csv": "departments.csv",
+      "json": "departments.json"
+    },
+    "job_requisitions": {
+      "rows": 100,
+      "csv": "job_requisitions.csv",
+      "json": "job_requisitions.json"
+    },
+    "requisition_status_history": {
+      "rows": 315,
+      "csv": "requisition_status_history.csv",
+      "json": "requisition_status_history.json"
+    },
+    "candidates": {
+      "rows": 2000,
+      "csv": "candidates.csv",
+      "json": "candidates.json"
+    },
+    "skills": {
+      "rows": 20,
+      "csv": "skills.csv",
+      "json": "skills.json"
+    },
+    "candidate_skills": {
+      "rows": 9957,
+      "csv": "candidate_skills.csv",
+      "json": "candidate_skills.json"
+    },
+    "resume_artifacts": {
+      "rows": 2000,
+      "csv": "resume_artifacts.csv",
+      "json": "resume_artifacts.json"
+    },
+    "screening_rules": {
+      "rows": 300,
+      "csv": "screening_rules.csv",
+      "json": "screening_rules.json"
+    },
+    "interviewers": {
+      "rows": 30,
+      "csv": "interviewers.csv",
+      "json": "interviewers.json"
+    },
+    "applications": {
+      "rows": 3002,
+      "csv": "applications.csv",
+      "json": "applications.json"
+    },
+    "interviews": {
+      "rows": 600,
+      "csv": "interviews.csv",
+      "json": "interviews.json"
+    },
+    "interview_panel_members": {
+      "rows": 1200,
+      "csv": "interview_panel_members.csv",
+      "json": "interview_panel_members.json"
+    },
+    "feedback": {
+      "rows": 1199,
+      "csv": "feedback.csv",
+      "json": "feedback.json"
+    },
+    "offers": {
+      "rows": 150,
+      "csv": "offers.csv",
+      "json": "offers.json"
+    },
+    "application_status_history": {
+      "rows": 7998,
+      "csv": "application_status_history.csv",
+      "json": "application_status_history.json"
+    },
+    "offer_approval_history": {
+      "rows": 150,
+      "csv": "offer_approval_history.csv",
+      "json": "offer_approval_history.json"
+    },
+    "ground_truth": {
+      "rows": 5,
+      "csv": "ground_truth.csv",
+      "json": "ground_truth.json"
+    }
+  }
+}

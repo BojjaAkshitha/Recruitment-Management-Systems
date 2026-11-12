@@ -1,0 +1,272 @@
+[
+  {
+    "interviewer_id": "INTR-0001",
+    "interviewer_name": "Arjun Joshi",
+    "department_id": "DEP-001",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0002",
+    "interviewer_name": "Kiran Das",
+    "department_id": "DEP-002",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0003",
+    "interviewer_name": "Dev Bose",
+    "department_id": "DEP-003",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0004",
+    "interviewer_name": "Saanvi Nair",
+    "department_id": "DEP-004",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0005",
+    "interviewer_name": "Ishaan Kumar",
+    "department_id": "DEP-005",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0006",
+    "interviewer_name": "Kavya Nair",
+    "department_id": "DEP-006",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0007",
+    "interviewer_name": "Ananya Reddy",
+    "department_id": "DEP-007",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": "2026-11-10;2026-11-20"
+  },
+  {
+    "interviewer_id": "INTR-0008",
+    "interviewer_name": "Aditi Sharma",
+    "department_id": "DEP-001",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0009",
+    "interviewer_name": "Ishaan Naidu",
+    "department_id": "DEP-002",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0010",
+    "interviewer_name": "Varun Nair",
+    "department_id": "DEP-003",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0011",
+    "interviewer_name": "Meera Shah",
+    "department_id": "DEP-004",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0012",
+    "interviewer_name": "Dev Shah",
+    "department_id": "DEP-005",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0013",
+    "interviewer_name": "Vihaan Sharma",
+    "department_id": "DEP-006",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0014",
+    "interviewer_name": "Varun Reddy",
+    "department_id": "DEP-007",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": "2026-11-10;2026-11-20"
+  },
+  {
+    "interviewer_id": "INTR-0015",
+    "interviewer_name": "Nikhil Pillai",
+    "department_id": "DEP-001",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0016",
+    "interviewer_name": "Mira Verma",
+    "department_id": "DEP-002",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0017",
+    "interviewer_name": "Dev Naidu",
+    "department_id": "DEP-003",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0018",
+    "interviewer_name": "Aditi Singh",
+    "department_id": "DEP-004",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0019",
+    "interviewer_name": "Arjun Verma",
+    "department_id": "DEP-005",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0020",
+    "interviewer_name": "Ananya Nair",
+    "department_id": "DEP-006",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0021",
+    "interviewer_name": "Saanvi Shah",
+    "department_id": "DEP-007",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": "2026-11-10;2026-11-20"
+  },
+  {
+    "interviewer_id": "INTR-0022",
+    "interviewer_name": "Meera Verma",
+    "department_id": "DEP-001",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0023",
+    "interviewer_name": "Riya Reddy",
+    "department_id": "DEP-002",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0024",
+    "interviewer_name": "Aditi Kumar",
+    "department_id": "DEP-003",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0025",
+    "interviewer_name": "Kiran Nair",
+    "department_id": "DEP-004",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0026",
+    "interviewer_name": "Saanvi Singh",
+    "department_id": "DEP-005",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0027",
+    "interviewer_name": "Mira Kapoor",
+    "department_id": "DEP-006",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0028",
+    "interviewer_name": "Kiran Das",
+    "department_id": "DEP-007",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": "2026-11-10;2026-11-20"
+  },
+  {
+    "interviewer_id": "INTR-0029",
+    "interviewer_name": "Priya Shah",
+    "department_id": "DEP-001",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  },
+  {
+    "interviewer_id": "INTR-0030",
+    "interviewer_name": "Mira Joshi",
+    "department_id": "DEP-002",
+    "active": true,
+    "availability_start": "2026-11-01",
+    "availability_end": "2026-11-30",
+    "unavailable_dates": ""
+  }
+]
